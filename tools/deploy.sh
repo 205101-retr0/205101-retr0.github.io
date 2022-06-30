@@ -46,6 +46,7 @@ init() {
 }
 
 build() {
+  bundle install
   # clean up
   if [[ -d $SITE_DIR ]]; then
     rm -rf "$SITE_DIR"
@@ -60,7 +61,8 @@ test() {
     --disable-external \
     --check-html \
     --allow_hash_href \
-    "$SITE_DIR"
+    --url-swap "http\:\/\/localhost\:4000:"
+    "$SITE_DIR" 
 }
 
 resume_site_dir() {
@@ -92,7 +94,7 @@ backup() {
   fi
 }
 
-flush() {
+flush(){
   rm -rf ./*
   rm -rf .[^.] .??*
 
