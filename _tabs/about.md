@@ -15,6 +15,6 @@ order: 4
  - My hobbies include playing guitar, pool and competative games.
 
 ### Achievements
- - Tryhackme Rank - <script src="https://tryhackme.com/badge/166368"></script>\
+ <!-- - Tryhackme Rank - <script src="https://tryhackme.com/badge/166368"></script>\ -->
  - CSAW-CTF finalist
  - Securebug CTF global 2nd runner up.
