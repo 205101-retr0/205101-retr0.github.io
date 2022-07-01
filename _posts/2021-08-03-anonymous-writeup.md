@@ -1,3 +1,11 @@
+---
+title: 0Day
+author: Teja
+date: 03-08-2021
+categories: [Writeups, Pentesting, Samba, FTP]
+tags: [tryhackmeBox]
+---
+
 Easy Tryhackme Box
 
 ## Recon
