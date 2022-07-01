@@ -12,7 +12,7 @@ order: 4
  - Part time CTF player.
  - Dedicated tryhackme and hackthebox advocate.
  - Love learning and writing code / scripting.
- - My hobbies include playing guitar, pool and competative games.
+ - My hobbies include playing guitar, snooker and competative games.
 
 ### Achievements
  - Tryhackme Rank - <script src="https://tryhackme.com/badge/166368"></script>\
