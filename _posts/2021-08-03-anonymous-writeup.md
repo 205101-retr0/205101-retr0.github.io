@@ -1,5 +1,5 @@
 ---
-title: 0Day
+title: Anonymous
 author: Teja
 date: 03-08-2021
 categories: [Writeups, Pentesting, Samba, FTP]
